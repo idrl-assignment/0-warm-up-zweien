@@ -2,7 +2,7 @@
 
 
 def generate_random_matrix(m, n):
-    raise NotImplementedError  # TODO: 删除该行，实现该函数功能
+    return 0  # TODO: 删除该行，实现该函数功能
 
 
 def save_matrix(matrix, file_name):
